@@ -13,6 +13,13 @@
 
 ## 快速使用
 
+```javascript
+const FC = window.MakeCache;
+const cache = new FC();
+cache.set("a", 100);
+console.log(cache.get("a"));
+```
+
 - 使用文档
 - 二次开发文档
 
