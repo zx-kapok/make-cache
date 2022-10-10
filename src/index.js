@@ -14,6 +14,10 @@ class MakeCache {
   remove(key) {
     delete this.data[key];
   }
+
+  clear() {
+    this.data = {};
+  }
 }
 
 window.MakeCache = MakeCache;
