@@ -8,6 +8,8 @@
 
 ## 安装与下载
 
+- 下载地址： https://github.com/zx-kapok/make-cache/releases
+
 ## 快速使用
 
 - 使用文档
