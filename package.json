@@ -14,7 +14,7 @@
   "keywords": [
     "cache"
   ],
-  "author": "git+https://github.com/zx-kapok",
+  "author": "https://github.com/zx-kapok",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zx-kapok/make-cache/issues"
