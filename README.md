@@ -9,6 +9,7 @@
 ## 安装与下载
 
 - 下载地址： https://github.com/zx-kapok/make-cache/releases
+- CDN：https://unpkg.com/make-cache/release/bundle.js
 
 ## 快速使用
 
